@@ -2,7 +2,6 @@
 **Hub-wen/Hub-wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -24,4 +23,4 @@ Here are some ideas to get you started:
       </div>
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=Hub-wen&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=github"/>
 <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-wen&locale=cn&line_height=33&theme=radical&langs_count=10&layout=donut-vertical"/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hub-wen&theme=dark&hide_border=%E7%9C%9F%E7%9A%84&border_radius=16&locale=zh_Hans&short_numbers=%E7%9C%9F%E7%9A%84&card_width=500&card_height=192)](https://git.io/streak-stats)
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Hub-wen)](https://github.com/IceEnd)
