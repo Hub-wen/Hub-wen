@@ -21,7 +21,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-wen&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=c,html,css,js,java,py,md,ts,cpp,cs,matlab&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=c,html,css,js,java,py,md,ts,mysql,git,sqlite,cpp&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=,vscode,github,androidstudio,eclipse,postman,idea,ps,blender,figma,&theme=dark" />  
   
 </p>
 <!-- https://github.com/kyechan99/capsule-render -->
