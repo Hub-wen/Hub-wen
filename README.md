@@ -8,14 +8,14 @@
 </p>
 
 <!-- Copy-paste in your Readme.md file -->
-
+<p align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=116432009" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116432009&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @Hub-wen" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116432009&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
+</p>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <p align="center">
